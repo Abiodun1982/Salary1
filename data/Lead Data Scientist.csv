@@ -1,0 +1,24 @@
+work_year,experience_level,job_title,salary,salary_in_usd,company_size
+2020,SE,Lead Data Scientist,190000,190000,S
+2020,SE,Lead Data Engineer,125000,125000,S
+2020,MI,Lead Data Analyst,87000,87000,L
+2020,MI,Lead Data Engineer,56000,56000,M
+2020,MI,Lead Data Scientist,115000,115000,L
+2021,EX,Head of Data,235000,235000,L
+2021,SE,Lead Data Analyst,170000,170000,L
+2021,MI,Lead Data Analyst,1450000,19609,L
+2021,SE,Lead Data Engineer,276000,276000,L
+2021,SE,Lead Data Engineer,75000,103160,S
+2021,SE,Lead Data Scientist,3000000,40570,L
+2021,EX,Head of Data,230000,230000,L
+2021,EX,Head of Data Science,85000,85000,M
+2021,MI,Head of Data Science,110000,110000,S
+2021,SE,Lead Data Engineer,160000,160000,S
+2021,SE,Head of Data,87000,102839,L
+2022,EX,Head of Data Science,224000,224000,M
+2022,EX,Head of Data Science,167875,167875,M
+2022,EX,Lead Data Engineer,150000,118187,S
+2022,EX,Head of Machine Learning,6000000,79039,L
+2022,SE,Lead Machine Learning Engineer,80000,87932,M
+2022,SE,Head of Data,200000,200000,M
+2022,MI,Head of Data,30000,32974,S

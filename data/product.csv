@@ -1,0 +1,33 @@
+work_year,job_title,salary,salary_currency,salary_in_usd,company_size
+2020,Product Data Analyst,20000,USD,20000,S
+2020,Product Data Analyst,450000,INR,6072,L
+2020,Research Scientist,42000,USD,42000,L
+2020,Research Scientist,450000,USD,450000,M
+2020,Principal Data Scientist,130000,EUR,148261,M
+2021,Research Scientist,60000,GBP,82528,L
+2021,Research Scientist,235000,CAD,187442,L
+2021,Principal Data Engineer,200000,USD,200000,M
+2021,Principal Data Scientist,151000,USD,151000,L
+2021,Principal Data Scientist,220000,USD,220000,L
+2021,Research Scientist,53000,EUR,62649,M
+2021,Principal Data Scientist,235000,USD,235000,L
+2021,Research Scientist,51400,EUR,60757,L
+2021,Research Scientist,120500,CAD,96113,L
+2021,Research Scientist,50000,USD,50000,S
+2021,Research Scientist,48000,EUR,56738,S
+2021,Principal Data Engineer,185000,USD,185000,L
+2021,Principal Data Scientist,416000,USD,416000,S
+2021,Research Scientist,80000,CAD,63810,M
+2021,Principal Data Analyst,170000,USD,170000,M
+2021,Principal Data Engineer,600000,USD,600000,L
+2021,Principal Data Scientist,147000,EUR,173762,M
+2021,Research Scientist,100000,USD,100000,L
+2021,Staff Data Scientist,105000,USD,105000,M
+2021,Research Scientist,69999,USD,69999,L
+2022,NLP Engineer,240000,CNY,37236,L
+2022,Principal Data Scientist,148000,EUR,162674,M
+2022,Research Scientist,144000,USD,144000,L
+2022,Principal Data Analyst,75000,USD,75000,S
+2022,Research Scientist,85000,EUR,93427,L
+2022,Research Scientist,59000,EUR,64849,L
+2022,Research Scientist,120000,USD,120000,L
